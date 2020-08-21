@@ -14,7 +14,9 @@
     "react-dom": "^16.13.1",
     "react-hook-form": "^6.4.1",
     "react-scripts": "3.4.3",
-    "typescript": "^3.7.5"
+    "typescript": "^3.7.5",
+    "@qiwi/pijma-core": "1.109.0",
+    "@qiwi/pijma-desktop": "1.110.0"
   },
   "scripts": {
     "start": "react-scripts start",
